@@ -25,6 +25,10 @@ div.green{
   background-color: green;
 }
 
+div.yellow{
+  background-color: yellow;
+}
+
 .invisible {
   display: none;
 }
